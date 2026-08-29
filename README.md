@@ -14,6 +14,6 @@
 
 ![snake gif](https://github.com/zuhyee/zuhyee/blob/output/github-snake-dark.svg)
 
-<div align="right">
+<div align="center">
  <img src="https://github.com/zuhyee/zuhyee/blob/fa56e81984b040fc83ec3d1a6c8cca8bb7cd9918/8444318047282377.jpg" \>
 </div>

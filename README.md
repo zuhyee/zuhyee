@@ -8,3 +8,5 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/zuhyee/zuhyee/blob/output/github-snake-dark.svg)

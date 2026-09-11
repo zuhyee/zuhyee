@@ -1,13 +1,5 @@
 
 <div align="center">
- <img src="https://github.com/zuhyee/TerminalProjextt/blob/8c0c61ac2aa2572720c2e4730665245fdd56ab29/Screenshot_20260911_165009_Chrome.jpg" \>
-</div>
-
-
-
-
-
-<div align="center">
  <img src="https://github.com/zuhyee/zuhyee/blob/323778088a7d0382a179b162f22c1f0545b7250d/regular%20show%20header.jpg" \>
 </div>
 
@@ -25,4 +17,20 @@
 
 <div align="center">
  <img src="https://github.com/zuhyee/zuhyee/blob/fa56e81984b040fc83ec3d1a6c8cca8bb7cd9918/8444318047282377.jpg" \>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+ <img src="https://github.com/zuhyee/TerminalProjextt/blob/8c0c61ac2aa2572720c2e4730665245fdd56ab29/Screenshot_20260911_165009_Chrome.jpg" \>
 </div>

@@ -1,6 +1,4 @@
-## 🏆 CS50P Certificate
 
-![CS50P Certificate](./cs50p-certificate.png)
 
 
 

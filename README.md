@@ -1,6 +1,6 @@
 ## 🏆 CS50P Certificate
 
-[![CS50P Certificate](./cs50p-certificate.png)](https://cs50.harvard.edu/certificates/45717c48-b709-461d-9ae5-8c854660f659)
+![CS50P Certificate](./cs50p-certificate.png)
 
 
 

@@ -1,3 +1,10 @@
+## 🏆 CS50P Certificate
+
+[![CS50P Certificate](./cs50p-certificate.png)](https://cs50.harvard.edu/certificates/45717c48-b709-461d-9ae5-8c854660f659)
+
+
+
+
 <div align="center">
  <img src="https://github.com/zuhyee/zuhyee/blob/323778088a7d0382a179b162f22c1f0545b7250d/regular%20show%20header.jpg" \>
 </div>

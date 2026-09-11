@@ -1,4 +1,8 @@
 
+<div align="center">
+ <img src="https://github.com/zuhyee/TerminalProjextt/blob/8c0c61ac2aa2572720c2e4730665245fdd56ab29/Screenshot_20260911_165009_Chrome.jpg" \>
+</div>
+
 
 
 

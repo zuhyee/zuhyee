@@ -1,30 +1,88 @@
-
 <div align="center">
- <img src="https://github.com/zuhyee/zuhyee/blob/323778088a7d0382a179b162f22c1f0545b7250d/regular%20show%20header.jpg" \>
+
+<img src="assets/zuhyee-header.gif" width="100%" alt="Zuhyee animated cyberpunk header" />
+
+<br/>
+
+<a href="https://github.com/Zuhyee">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=35DDF5&center=true&vCenter=true&width=600&lines=Developer+in+progress.;Curiosity+%3E+comfort.;Building+one+commit+at+a+time." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="assets/scanner.gif" width="84%" alt="Animated scanner effect" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Zuhyee-0b0f19?style=for-the-badge&logo=github&logoColor=35ddf5)](https://github.com/Zuhyee)
+[![Instagram](https://img.shields.io/badge/Instagram-kaelra1-0b0f19?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/kaelra1)
+[![Discord](https://img.shields.io/badge/Discord-Profile-0b0f19?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/1281508452195110915)
+[![Email](https://img.shields.io/badge/Email-Contact-0b0f19?style=for-the-badge&logo=gmail&logoColor=35ddf5)](mailto:Kuzaro30@gmail.com)
+
 </div>
 
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.gg/ray) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryalsho) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ix_230Z) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@i-WanshZ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ra9gs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuzaro30@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+## `~/ about-me`
 
+```text
+┌─ ZUH YEE ─────────────────────────────────────┐
+│  Learning by building. Improving by shipping. │
+│  Interested in code, systems, and the web.    │
+└───────────────────────────────────────────────┘
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- `CURRENT_MODE` → learning, experimenting, building
+- `MAIN_GOAL` → turn ideas into working projects
+- `MINDSET` → stay curious; keep shipping
 
+## `~/ tech-stack`
+
+<div align="center">
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp,c" height="46" alt="C and C++" /></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="46" alt="Java" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript,javascript" height="46" alt="TypeScript and JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css" height="46" alt="HTML and CSS" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="46" alt="VS Code" /></a>
+<a href="https://remix.run/"><img src="https://skillicons.dev/icons?i=remix" height="46" alt="Remix" /></a>
+<a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="46" alt="Webpack" /></a>
+<a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" height="46" alt="Google Cloud" /></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet,cs" height="46" alt=".NET and C sharp" /></a>
+
+</div>
+
+## `~/ github-stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zuhyee&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=35ddf5&text_color=c9d1d9&icon_color=9b8cff&hide=issues&rank_icon=github" alt="Zuhyee GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Zuhyee&hide_border=true&background=0b0f19&ring=35ddf5&fire=9b8cff&currStreakLabel=35ddf5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=7f8ea3" alt="Zuhyee GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhyee&layout=compact&hide_border=true&bg_color=0b0f19&title_color=35ddf5&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
+
+</div>
+
+## `~/ activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuhyee&bg_color=0b0f19&color=c9d1d9&line=35ddf5&point=9b8cff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Zuhyee&style=flat-square&color=35ddf5&label=PROFILE+SCANS" alt="Profile views" />
+
+<br/>
+
+<sub>DESIGNED IN THE TERMINAL • POWERED BY CURIOSITY</sub>
+
+</div>
 ![snake gif](https://github.com/zuhyee/zuhyee/blob/output/github-snake-dark.svg)
-
-<div align="center">
- <img src="https://github.com/zuhyee/zuhyee/blob/fa56e81984b040fc83ec3d1a6c8cca8bb7cd9918/8444318047282377.jpg" \>
-</div>
-
-
-
-
-
-
-
-
-
-
